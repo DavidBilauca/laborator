@@ -1,0 +1,5 @@
+Aplicatie dotnet consola care se conecteaza la Google Drive prin Google Cloud Platform.
+Functii implementate: 
+  -listare fisiere si directoare din Google Drive
+  -creare de fisier oarecare in Google Drive (eroare: Google.GoogleApiException: 'Google.Apis.Requests.RequestError
+                                              Insufficient Permission: Request had insufficient authentication scopes. [403])
